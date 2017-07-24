@@ -1,0 +1,87 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": 0,
+  "do_objectID": "EC850021-436B-4C5B-9B54-19D7A7D2086C",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6.363961030678919,
+    "width": 6.354144180175378,
+    "x": 8.839510529196772,
+    "y": 30.33460210394504
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Arrow",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0098397808477026488, -0.00054538058353434946}",
+        "curveMode": 1,
+        "curveTo": "{0.0098397808477026488, -0.00054538058353434946}",
+        "do_objectID": "A521691F-B148-4843-922F-5D3500DE2F26",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0098397808477026488, -0.00054538058353434946}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1.0098397808477029, -0.00054538058353417187}",
+        "curveMode": 1,
+        "curveTo": "{1.0098397808477029, -0.00054538058353417187}",
+        "do_objectID": "74F28C25-C753-41CB-883D-5ACB648D20A8",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.0098397808477029, -0.00054538058353417187}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1.0098397808477024, 0.99945461941646596}",
+        "curveMode": 1,
+        "curveTo": "{1.0098397808477024, 0.99945461941646596}",
+        "do_objectID": "0AD4BE26-9380-4B39-824E-E797EACEF632",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.0098397808477024, 0.99945461941646596}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.0098397808477026488, 0.99945461941646596}",
+        "curveMode": 1,
+        "curveTo": "{0.0098397808477026488, 0.99945461941646596}",
+        "do_objectID": "2416E0EE-6A76-48DE-967A-C7FFE9B76AB2",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.0098397808477026488, 0.99945461941646596}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 315,
+  "shouldBreakMaskChain": false
+}
